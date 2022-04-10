@@ -1,2 +1,5 @@
 # CS106A
-My Stanford CS106A Assignments
+
+These are my projects from Stanford's CS106A Course that I am taking.
+
+The website is: cs106a.stanford.edu.
